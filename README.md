@@ -65,3 +65,5 @@ Publisher open the file, read it line by line send it to appropriate topic to me
 Subscriber subscribe to topic and save all messages in topic to $incoming_file. 
 When the subscriber is closed, file waf flushed and saved .
 
+![](mqtt.png)
+
